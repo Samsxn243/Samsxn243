@@ -48,6 +48,5 @@ Specifically interested in: **RAG systems · AI agents · LLM integration in ent
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samsxn243&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samsxn243&hide_border=true" width="48%" alt="GitHub streak"/>
 </p>
